@@ -4,3 +4,4 @@
 
 # tutorials
 - [learn the fundamentals](https://courses.getdbt.com/courses/fundamentals)
+- [dbt and dagster](https://dagster.io/blog/dagster-dbt)
